@@ -31,10 +31,10 @@ Make sure the following tools are installed on your system:
 1. Download the script to your local machine
 
 2. Make it executable:  
-   chmod +x photo-fixer.sh
+   chmod +x imagetool.sh
 
 3. Run it in your terminal:  
-   ./photo-fixer.sh
+   ./imagetool.sh
 
 4. Follow the prompts:
    - Enter the path to the folder containing your photos
